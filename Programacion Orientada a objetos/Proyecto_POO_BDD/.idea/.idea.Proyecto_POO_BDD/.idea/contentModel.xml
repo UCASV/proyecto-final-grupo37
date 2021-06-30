@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\noble\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\noble\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_Proyecto_POO_BDD.1592912083.00" t="ExcludeRecursive" />
+    <e p="C:\Users\noble\RiderProjects\Proyecto_POO_BDD" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Proyecto_POO_BDD" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="fmr" t="Include">
+          <e p="Buscar.cs" t="Include" />
+          <e p="Buscar.Designer.cs" t="Include" />
+          <e p="Buscar.resx" t="Include" />
+          <e p="Form1.cs" t="Include" />
+          <e p="Form1.Designer.cs" t="Include" />
+          <e p="Form1.resx" t="Include" />
+          <e p="Principal.cs" t="Include" />
+          <e p="Principal.Designer.cs" t="Include" />
+          <e p="Principal.resx" t="Include" />
+          <e p="Registro01.cs" t="Include" />
+          <e p="Registro01.Designer.cs" t="Include" />
+          <e p="Registro01.resx" t="Include" />
+          <e p="seguimiento.cs" t="Include" />
+          <e p="seguimiento.Designer.cs" t="Include" />
+          <e p="seguimiento.resx" t="Include" />
+        </e>
+        <e p="NombreDirectorio" t="Include">
+          <e p="Banco_de_datosContext.cs" t="Include" />
+          <e p="Cabina.cs" t="Include" />
+          <e p="CabinaxEmpleado.cs" t="Include" />
+          <e p="Citum.cs" t="Include" />
+          <e p="Ciudadano.cs" t="Include" />
+          <e p="EfectoSecundario.cs" t="Include" />
+          <e p="Empleado.cs" t="Include" />
+          <e p="EmpleadoxCiudadano.cs" t="Include" />
+          <e p="Enfermedad.cs" t="Include" />
+          <e p="Hora.cs" t="Include" />
+          <e p="Identificador.cs" t="Include" />
+          <e p="Lugar.cs" t="Include" />
+          <e p="Tipo.cs" t="Include" />
+          <e p="Vacunacion.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net5.0-windows" t="Include">
+              <e p="Proyecto_POO_BDD.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Proyecto_POO_BDD.csproj" t="IncludeRecursive" />
+        <e p="Recursos.Designer.cs" t="Include" />
+        <e p="Recursos.resx" t="Include" />
+        <e p="Repositiry" t="Include">
+          <e p="IRepository.cs" t="Include" />
+        </e>
+        <e p="Resources" t="Include">
+          <e p="Gestor2.jpg" t="Include" />
+          <e p="Gestor21.jpg" t="Include" />
+          <e p="logos_minsal_062019_White_azul_2536x1288.png" t="Include" />
+          <e p="photo5161255744723593540.jpg" t="Include" />
+          <e p="índice.png" t="Include" />
+        </e>
+        <e p="servicios" t="Include">
+          <e p="ServiCabina.cs" t="Include" />
+          <e p="ServiCitas.cs" t="Include" />
+          <e p="ServiCiudadano.cs" t="Include" />
+          <e p="ServiciudadanoXVacunacion.cs" t="Include" />
+          <e p="ServiEfectos.cs" t="Include" />
+          <e p="ServiEmpleado.cs" t="Include" />
+          <e p="ServiEnfermedades.cs" t="Include" />
+        </e>
+        <e p="viewModel" t="Include">
+          <e p="CiudadanoVm.cs" t="Include" />
+          <e p="ciudadMapper.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Proyecto_POO_BDD.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
